@@ -59,7 +59,17 @@
 
 ### 🔥 My Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devkushwah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+
+  <!-- GitHub Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkushwah&theme=github_dark" alt="Profile Summary" />
+
+  <!-- GitHub Stats -->
+  
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkushwah&layout=compact&theme=dark" height="180" alt="Top Languages" />
+
 </div>
+
 
 ---
